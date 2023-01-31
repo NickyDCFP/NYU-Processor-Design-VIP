@@ -1,0 +1,5 @@
+# ninja log v5
+8	342	1675138684294582124	CMakeFiles/hello_world.dir/src/hello.cpp.o	897e8b14c356a8c
+344	532	1675138684486589515	hello_world	67b29bb12bae6943
+5	381	1675138936444288219	build.ninja	ee5d1bc21185b931
+6	428	1675138519852252153	CMakeFiles/hello_world.dir/src/name.cpp.o	12bf989ac5bde729

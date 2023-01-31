@@ -1,0 +1,3 @@
+/home/anubis/Lab 1/build/CMakeFiles/hello_world.dir
+/home/anubis/Lab 1/build/CMakeFiles/edit_cache.dir
+/home/anubis/Lab 1/build/CMakeFiles/rebuild_cache.dir
